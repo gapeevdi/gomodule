@@ -1,3 +1,3 @@
-module GoPractice/chapter6/modules
+module github.com/gapeevdi/gomodule
 
 go 1.20
