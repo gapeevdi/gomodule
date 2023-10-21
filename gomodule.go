@@ -8,5 +8,5 @@ import "fmt"
 // git push -q origin v1.1.0
 
 func Version() {
-	fmt.Println("Version 3.0.0")
+	fmt.Println("Version 3.1.0")
 }
